@@ -1,1 +1,1 @@
-worker: python telebot.py
+web: python bot.py
